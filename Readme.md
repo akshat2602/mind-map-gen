@@ -1,0 +1,4 @@
+# Requirements
+
+gensim
+pymupdf
